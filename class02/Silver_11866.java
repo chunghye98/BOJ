@@ -3,6 +3,7 @@ import java.util.*;
 
 /*
 11866, 요세푸스 문제 0
+
  */
 public class Silver_11866 {
     public static void main(String[] args) throws IOException {
